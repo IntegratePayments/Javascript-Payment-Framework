@@ -22,8 +22,11 @@ Private API Keys : Are used with Direct Post, Three Step Redirect, and Query API
 Transactions can be submitted using the following information:
 
 Visa:	4111111111111111
+
 MasterCard:	5431111111111111
+
 Discover:	6011601160116611
+
 American Express:	341111111111111
 
 Credit Card Expiration:	10/25
